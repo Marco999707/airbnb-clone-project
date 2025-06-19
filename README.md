@@ -4,10 +4,11 @@ Learning Objectives
 _By completing this project, you will__:_
 
 **Learn to implement responsive UI/UX designs**
-Understand how to structure a complex web application /n
-Practice working in a team with defined roles /n
-Develop skills in component-based frontend architecture /n
-Learn best practices for web application development /n
+Understand how to structure a complex web application 
+
+Practice working in a team with defined roles 
+Develop skills in component-based frontend architecture 
+Learn best practices for web application development 
 
 **Tech Stack**
 Frontend: HTML, CSS, JavaScript (React or similar framework)
