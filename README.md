@@ -22,7 +22,7 @@ Version Control: Git and GitHub
 
 Design Tools: Figma for UI/UX design
 
-## **UI/UX Design Planning**
+## UI/UX Design Planning
 
 **Design Goals**
 
