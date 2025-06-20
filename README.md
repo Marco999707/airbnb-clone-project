@@ -70,8 +70,6 @@ Secondary Text: Circular, Book (400), 14px
 **Why Design Properties Matter**
 Understanding and applying design properties from Figma is essential for building consistent and accessible interfaces. By following defined color styles, typography, and spacing, developers ensure that the UI looks and behaves as intended across all components and screens. 
 ## Project Roles and Responsibilities
-**Project Roles and Responsibilities
-Role	Responsibilities**
 
 Project Manager	Oversees timeline, coordinates team, manages deliverables
 Frontend Developers	Implements UI components, ensures responsive design
@@ -82,7 +80,7 @@ DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
 Product Owner	Defines requirements, prioritizes features, represents stakeholders
 Scrum Master	Facilitates agile processes, removes blockers, organizes
 ## UI Component Patterns
-**Planned Components**
+Planned Components
 Navbar
 
 Logo
